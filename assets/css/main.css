@@ -175,30 +175,3 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 }
 
 
-<style>
-a:link {
-  color: #80dbed;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
-
-
