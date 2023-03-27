@@ -31,6 +31,32 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Inter', sans-serif;}
 figure{ margin: 0 }
 svg,img { max-width: 100%; height: auto; }
 
+<style>
+a:link {
+  color: #80dbed;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
 /*-----------------------------------------------------------------
   1. >>> Headr Style
 ----------------------------------------------------------------*/
